@@ -1,0 +1,4 @@
+{
+  "python.analysis.autoFormatStrings": false,
+  "pythonIndent.keepHangingBracketOnLine": false
+}
